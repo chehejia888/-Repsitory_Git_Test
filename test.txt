@@ -1,0 +1,17 @@
+Git is a version control system.
+Git is free software.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git is a good tool.
+Git is a good tool.
+Git is a good tool.
+Git is a good tool.
+Git is a good tool.
+Git is a good tool.Git is a good tool.
+Git is a good tool.
+Git has a mutable index called stage.
+1、GUI环境中打开提交的文件内容是乱码。
+2、CMD环境中获取提交的文件内容也是乱码。
+现在的情景是，你已经在本地创建了一个Git仓库后，又想在GitHub创建一个Git仓库，
+并且让这两个仓库进行远程同步，这样，GitHub上的仓库既可以作为备份，
+又可以让其他人通过该仓库来协作，真是一举多得。
